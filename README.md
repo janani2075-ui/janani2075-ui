@@ -134,4 +134,53 @@ My dissertation explored heterogeneous traffic forecasting with graph neural net
 
 [**Explore my portfolio**](https://jananiveerakumarportfolio1.netlify.app/) · [**Connect on LinkedIn**](https://www.linkedin.com/in/janani-veera-kumar-481537268/) · [**Browse repositories**](https://github.com/janani2075-ui?tab=repositories)
 
+</div>  
+<div align="center"> 
+<br>
+
+<div align="center">
+
+<h2>📬 Let's Connect & Collaborate</h2>
+
+<p>
+Open to Data Science, Machine Learning, Data Analytics and Data Engineering opportunities, research collaborations and meaningful projects.
+</p>
+
+<br>
+
+<a href="mailto:janani2075@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send Email"
+    height="35"
+  />
+</a>
+&nbsp;&nbsp;
+<a href="tel:+447352680411">
+  <img
+    src="https://img.shields.io/badge/PHONE-Call%20Me-22C55E?style=for-the-badge&logo=phone&logoColor=white"
+    alt="Call Me"
+    height="35"
+  />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.google.com/maps/search/?api=1&query=Guildford%2C%20Surrey%2C%20UK">
+  <img
+    src="https://img.shields.io/badge/LOCATION-Guildford%2C%20UK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"
+    alt="View Location"
+    height="35"
+  />
+</a>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=850&height=45&lines=Let's+Connect+and+Create+Something+Meaningful;Open+to+Data+Science+Opportunities;Let's+Turn+Data+Into+Impact"
+  alt="Animated contact message"
+/>
+
+<br>
+
+<i>From data to evidence. From evidence to decisions.</i>
+
 </div>
